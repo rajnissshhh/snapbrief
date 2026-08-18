@@ -8,7 +8,7 @@ from pathlib import Path
 
 import pytesseract
 from PIL import Image, ImageOps
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+# pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # --------------------------------------------------------------------------
 # Stage 1: Vision — OCR
